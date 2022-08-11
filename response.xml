@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<root>
+  <id>134350</id>
+  <tourist_name>#string</tourist_name>
+  <tourist_email>#string</tourist_email>
+  <tourist_location>#string</tourist_location>
+  <createdat>#present</createdat>
+</root>

@@ -1,0 +1,122 @@
+[
+    {
+        "id": 4643,
+        "category": "plumbing",
+        "name": "PEX Clamp Tool",
+        "inStock": true
+    },
+    {
+        "id": 1225,
+        "category": "power-tools",
+        "name": "1/2 in. Brushless Hammer Drill",
+        "inStock": true
+    },
+    {
+        "id": 2177,
+        "category": "ladders",
+        "name": "Cosco Three Step Steel Platform",
+        "inStock": true
+    },
+    {
+        "id": 6543,
+        "category": "electric-generators",
+        "name": "GENMAX 3200 Watt Inverter Generator",
+        "inStock": false
+    },
+    {
+        "id": 3674,
+        "category": "power-tools",
+        "name": "20V Max Cordless Drill Combo Kit",
+        "inStock": true
+    },
+    {
+        "id": 2585,
+        "category": "power-tools",
+        "name": "20V Max Drill & Home Tool Kit",
+        "inStock": true
+    },
+    {
+        "id": 5851,
+        "category": "power-tools",
+        "name": "20V MAX Cordless Drill Combo Kit",
+        "inStock": false
+    },
+    {
+        "id": 8739,
+        "category": "power-tools",
+        "name": "18V LXT Lithium-Ion Cordless 8-Pc. Combo Kit",
+        "inStock": true
+    },
+    {
+        "id": 1709,
+        "category": "ladders",
+        "name": "Velocity Aluminum Multi-Position Ladder, 13 Ft, 300 lbs",
+        "inStock": true
+    },
+    {
+        "id": 1709,
+        "category": "ladders",
+        "name": "Werner 356 Stepladder, 6-Foot, 100 lbs",
+        "inStock": true
+    },
+    {
+        "id": 7395,
+        "category": "ladders",
+        "name": "Louisville Fiberglass Stepladder, 4 Ft, 300 lbs",
+        "inStock": true
+    },
+    {
+        "id": 8554,
+        "category": "trailers",
+        "name": "Tilt Trailer 7,000 lbs.",
+        "inStock": true
+    },
+    {
+        "id": 8753,
+        "category": "plumbing",
+        "name": "Pipe Threader",
+        "inStock": true
+    },
+    {
+        "id": 9482,
+        "category": "plumbing",
+        "name": "Submersible Water Removal Pump",
+        "inStock": true
+    },
+    {
+        "id": 5477,
+        "category": "plumbing",
+        "name": "Manual Drain Auger 25ft",
+        "inStock": true
+    },
+    {
+        "id": 6483,
+        "category": "trailers",
+        "name": "Single Axle Dump Trailer 2,990 lbs",
+        "inStock": true
+    },
+    {
+        "id": 5774,
+        "category": "trailers",
+        "name": "Single Axle Utility Trailer 4,995 lbs.",
+        "inStock": true
+    },
+    {
+        "id": 4875,
+        "category": "electric-generators",
+        "name": "2800 Watt Inverter Generator",
+        "inStock": true
+    },
+    {
+        "id": 5499,
+        "category": "electric-generators",
+        "name": "3000 Watt Inverter Generator",
+        "inStock": true
+    },
+    {
+        "id": 3486,
+        "category": "electric-generators",
+        "name": "7000 Watt Inverter Generator",
+        "inStock": true
+    }
+]

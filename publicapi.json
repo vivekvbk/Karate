@@ -1,0 +1,16 @@
+  {
+    "count": "#number",
+    "entries": "#[] #object"
+  
+    }
+    
+    {
+      "API": "#string",
+      "Description": "#string",
+      "Auth": "##string",
+      "HTTPS": "#boolean",
+      "Cors": "#present",
+      "Link": "##present",
+      "Category": "#string"
+    }
+   

@@ -1,0 +1,54 @@
+{
+  "page": 1,
+  "per_page": 6,
+  "total": 12,
+  "total_pages": 2,
+  "data": [
+    {
+      "id": 1,
+      "name": "#string",
+      "year": 2000,
+      "color": "#ignore",
+      "pantone_value": "#ignore"
+    },
+    {
+      "id": 2,
+      "name": "#string",
+      "year": 2001,
+      "color": "#ignore",
+      "pantone_value": "#ignore"
+    },
+    {
+      "id": 3,
+      "name": "#string",
+      "year": 2002,
+      "color": "#ignore",
+      "pantone_value": "#ignore"
+    },
+    {
+      "id": 4,
+      "name": "#string",
+      "year": 2003,
+      "color": "#ignore",
+      "pantone_value": "#ignore"
+    },
+    {
+      "id": 5,
+      "name": "#string",
+      "year": 2004,
+      "color": "#ignore",
+      "pantone_value": "#ignore"
+    },
+    {
+      "id": 6,
+      "name": "#string",
+      "year": 2005,
+      "color": "#ignore",
+      "pantone_value": "#ignore"
+    }
+  ],
+  "support": {
+    "url": "#string",
+    "text": "#string"
+  }
+}

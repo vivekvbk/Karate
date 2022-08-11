@@ -1,0 +1,8 @@
+{
+"alpha_two_code": "#string", 
+"state-province": "#ignore",
+"country": "#string",
+"name": "#string",
+"web_pages": "#[] #string",
+"domains": "#[] #string"
+}

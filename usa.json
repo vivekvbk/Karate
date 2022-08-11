@@ -1,0 +1,36 @@
+
+{
+ "data": "#[] #object",
+ "source" : "#[] #object"
+ }"data": {
+                    "ID Nation": "#string",
+                    "Nation": "#string",
+                    "ID Year": "#string",
+                    "Year": "#present",
+                    "Population": "#present",
+                    "Slug Nation":"#string"
+                }
+            }, "source":          
+               
+                    "measures": "#string",
+                      
+                    "annotations": {
+             
+                            "source_name": "#string",
+                            "source_description": "#string",
+                            "dataset_name": "#string",
+                            "dataset_link": "#present",
+                            "table_id": "#present",
+                            "topic": "#present",
+                            "subtopic": "#present"
+                        
+                    },
+                    "name":"#present",
+                    "substitutions":"#present"
+                 
+                    }
+                }
+            
+        }
+    }
+}
